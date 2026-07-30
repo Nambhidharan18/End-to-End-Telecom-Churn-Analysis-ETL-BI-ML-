@@ -655,10 +655,10 @@ To further improve the effectiveness and scalability of this project, the follow
 ## 11. Folder Structure
 
     End-to-End-Telecom-Churn-Analysis/
-    │── data/                   # Raw and processed datasets
-    │── notebooks/              # Jupyter notebooks for EDA and ML
-    │── sql/                    # SQL scripts for ETL and views
     │── dashboard/              # Power BI dashboard files
+    |── dataset/                # Raw and processed datasets
+    │── notebooks/              # Jupyter notebooks for EDA and ML
+    │── script/                 # SQL scripts for ETL and views
     │── README.md               # Project documentation
 
 
