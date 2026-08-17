@@ -80,7 +80,7 @@ This is the **short version**, created to provide a quick overview while respect
 
 If you would like to explore the complete project, including the **ETL process, SQL queries, data analysis, Power BI dashboards, machine learning workflow, model evaluation, and detailed findings**:
 
-### 👉 [Click Here to View the Full README](./Full_readme.md)
+### 👉 [Click Here to View the Full README](Full_Readme.md)
 
 ---
 
