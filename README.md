@@ -23,11 +23,11 @@ This project aims to address the following key business questions:
 The primary objective of this project is to build a complete **ETL → Analysis → Visualization → Prediction** workflow to help the telecom business understand and reduce customer churn. Key goals include:
 
 - **Design and implement a full ETL pipeline** to clean, transform, and store customer data in a SQL database.
-<br>
+
 - **Visualize and analyze customer data across** demographic, geographic, account, payment, and service-related attributes.
 
 - **Identify churn-prone customer profiles** to support targeted marketing and retention campaigns.
-<br>
+
 - **Develop a predictive churn model** to identify customers likely to leave in the future using machine learning.
 
 ## 4. Dataset Description
